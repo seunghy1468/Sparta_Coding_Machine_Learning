@@ -46,5 +46,24 @@
 ### accuracy (validation accuracy-orange)
 ![3](https://user-images.githubusercontent.com/47622991/125394624-eb05b300-e3e4-11eb-9d72-8e38de04bf9f.png)
 
+--------------
+
+## 4 weeks (transfer learning - ResNet with augmentation)
+
+### learning
+![1](https://user-images.githubusercontent.com/47622991/125584900-97c021df-1364-4189-843b-d0cf52471a36.PNG)
+
+### loss
+![2](https://user-images.githubusercontent.com/47622991/125584940-440e5dee-6bd5-48d2-90f3-6fb4a04c3041.PNG)
+
+### accuracy
+![3](https://user-images.githubusercontent.com/47622991/125584987-ec428d84-86c0-412c-a6a7-c837235b5fb4.PNG)
+
+### test (result)
+![4](https://user-images.githubusercontent.com/47622991/125585044-aca9ad54-3c46-4ec5-a54e-6d661e2ff5a2.PNG)
+
+
+
+
 
 
